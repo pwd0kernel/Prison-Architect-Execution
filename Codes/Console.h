@@ -7,7 +7,6 @@ class Console {
 private:
 
 public:
-
 	static void AllowConsole(const char* name) {
 		AllocConsole();
 		if (freopen("CONOUT$", "w", stdout));
