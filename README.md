@@ -29,5 +29,7 @@
 ```lua
 Game.AdviserSay("CEO", "This is a test")
 ```
-
+```lua
+Game.GameOver()	
+```
 
