@@ -21,5 +21,6 @@
   - Language Used:
     - ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
     - ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
+    - ![LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C)
 
 
