@@ -12,6 +12,7 @@
     - Prison Architect Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
     - Prison Architect Lua Guide: [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
   - Information:
+    - Command line
     - x32
     - Loadstring Execution
   - Lua Functions Using:
