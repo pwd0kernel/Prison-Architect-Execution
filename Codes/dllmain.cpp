@@ -3,7 +3,6 @@
 #include "Console.h"
 
 int main() {
-
     std::unique_ptr<Core> core = std::make_unique<Core>();
     std::unique_ptr<Console> console = std::make_unique<Console>();
 
