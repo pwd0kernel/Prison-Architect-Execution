@@ -23,4 +23,11 @@
     - ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
     - ![LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C)
 
+---
+
+>Script to test the exploit:
+```lua
+Game.AdviserSay("CEO", "This is a test")
+```
+
 
