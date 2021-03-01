@@ -1,6 +1,7 @@
 # Prison-Architect-Execution
 Basic Prison Architect Lua Execution
 
+---
 <div style="text-align:center"><img src="https://prisonarchitect.paradoxwikis.com/images/thumb/7/7f/Prison_Architect_logo.png/300px-Prison_Architect_logo.png" /></div>
 
 Prison Architect Lua Wiki: https://prisonarchitect.paradoxwikis.com/Lua
