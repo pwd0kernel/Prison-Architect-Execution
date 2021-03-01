@@ -11,4 +11,11 @@
     - Prison Architect Lua Wiki: [Click Here](https://prisonarchitect.paradoxwikis.com/Lua)
     - Prison Architect Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
     - Prison Architect Lua Guide: [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
+  - Information:
+    - x32
+    - Loadstring Execution
+  - Lua Functions Using:
+    - gettop
+    - pcall
+    - loadstring
 
