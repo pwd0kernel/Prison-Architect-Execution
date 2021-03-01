@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://prisonarchitect.paradoxwikis.com/images/thumb/7/7f/Prison_Architect_logo.png/300px-Prison_Architect_logo.png">
 </p>
