@@ -33,3 +33,4 @@ Game.AdviserSay("CEO", "This is a test")
 Game.GameOver()	
 ```
 
+You can start coding your own script if one of those work, i also listed 3 wiki that you can use.
