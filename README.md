@@ -8,7 +8,7 @@ Basic Prison Architect Lua Execution
   - How to use:
     - Compile the DLL then inject it in Prison Architect with a DLL injector
   - Wiki:
-    - Prison Architect Lua Wiki: https://prisonarchitect.paradoxwikis.com/Lua
-    - Prison Architect Lua Wiki(best): https://www.prisonarchitectwiki.com/wiki/Modding_guide
-    - Prison Architect Lua Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=480978426
+    - Prison Architect Lua Wiki: [paradoxwikis.com](https://prisonarchitect.paradoxwikis.com/Lua)
+    - Prison Architect Lua Wiki(best): [www.prisonarchitectwiki.com](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
+    - Prison Architect Lua Guide: [steamcommunity.com](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
 
