@@ -50,7 +50,7 @@ You can start coding your own script if one of those work, I also listed 3 wiki 
 
 It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses
 
-### 1.05 (NEW)
+#### 1.05 (NEW)
 
 |  Function  | Address  |
 | :--------: | :------: |
@@ -58,7 +58,7 @@ It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you
 | LOADSTRING | 0x993390 |
 |   PCALL    | 0x991B20 |
 
-### 1.04 (OLD)
+#### 1.04 (OLD)
 
 |  Function  | Address  |
 | :--------: | :------: |
