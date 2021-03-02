@@ -6,8 +6,6 @@
 
   - How to use:
     - Compile the DLL then inject it in Prison Architect with a DLL injector. Make sure you compile it in x32
-  - Working on:
-  	- 1.04
   - Wiki:
     - Prison Architect Lua Wiki: [Click Here](https://prisonarchitect.paradoxwikis.com/Lua)
     - Prison Architect Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
@@ -24,6 +22,9 @@
     - ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
     - ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
     - ![LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C)
+  - Working on:
+	- [ ] 1.05 (going green) [Pack]
+	- [X] 1.04 [ALL DLC]
 
 ---
 
