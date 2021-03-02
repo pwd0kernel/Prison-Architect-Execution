@@ -27,10 +27,19 @@
 
 Script to test the exploit:
   ```lua
-  Game.AdviserSay("CEO", "This is a test")
+Game.AdviserSay("CEO", "This is a test")
   ```
 ```lua
 Game.GameOver()	
 ```
 
-You can start coding your own script if one of those work, i also listed 3 wiki that you can use.
+You can start coding your own script if one of those work, I also listed 3 wiki that you can use.
+
+---
+
+- Todo:
+	- [ ] Add script decompiler
+	- [ ] Make a UI
+	- [ ] Auto Grab Addys
+	- [ ] Update to the latest version of Prison Architect
+	- [x] Lua Execution
