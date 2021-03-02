@@ -25,10 +25,10 @@
 
 ---
 
->Script to test the exploit:
-```lua
-Game.AdviserSay("CEO", "This is a test")
-```
+Script to test the exploit:
+  ```lua
+  Game.AdviserSay("CEO", "This is a test")
+  ```
 ```lua
 Game.GameOver()	
 ```
