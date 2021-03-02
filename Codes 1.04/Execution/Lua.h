@@ -14,9 +14,9 @@ private:
 public:
 	static std::uintptr_t lua_state;
 
-	gettop lua_gettop = reinterpret_cast<gettop>(0x955CA0);
-	loadstring lua_loadstring = reinterpret_cast<loadstring>(0x957850);
-	pcall lua_pcall = reinterpret_cast<pcall>(0x955FE0);
+	gettop lua_gettop = reinterpret_cast<gettop>(0x9917E0);
+	loadstring lua_loadstring = reinterpret_cast<loadstring>(0x993390);
+	pcall lua_pcall = reinterpret_cast<pcall>(0x991B20);
 
 	static int gettop_state(int state)
 	{
@@ -41,5 +41,11 @@ public:
 
 	void DisableLuaState() {
 		MH_DisableHook(reinterpret_cast<LPVOID>(lua_gettop));
+	}
+
+	void Detach() {
+		DisableLuaState();
+		FreeConsole();
+		FreeLibraryAndExitThread(GetModuleHandleA("re.dll"), 0);
 	}
 };
