@@ -43,6 +43,26 @@ You can start coding your own script if one of those work, I also listed 3 wiki 
 - Todo:
 	- [ ] Add script decompiler
 	- [ ] Make a UI
-	- [ ] Auto Grab Addys
+	- [ ] Auto Grab Addy's
 	- [ ] Update to the latest version of Prison Architect
 	- [x] Lua Execution
+---
+
+It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses
+
+### 1.05 (NEW)
+
+|  Function  | Address  |
+| :--------: | :------: |
+|   GETTOP   | 0x9917E0 |
+| LOADSTRING | 0x993390 |
+|   PCALL    | 0x991B20 |
+
+### 1.04 (OLD)
+
+|  Function  | Address  |
+| :--------: | :------: |
+|   GETTOP   | 0x955CA0 |
+| LOADSTRING | 0x957850 |
+|   PCALL    | 0x955FE0 |
+
