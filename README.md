@@ -52,17 +52,17 @@ It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you
 
 #### 1.05 (NEW)
 
-|  Function  | Address  |
-| :--------: | :------: |
-|   GETTOP   | 0x9917E0 |
-| LOADSTRING | 0x993390 |
-|   PCALL    | 0x991B20 |
+|  Function  | Address  | Calling Convention |
+| :--------: | :------: | :----------------: |
+|   GETTOP   | 0x9917E0 |       CDECL        |
+| LOADSTRING | 0x993390 |       CDECL        |
+|   PCALL    | 0x991B20 |       CDECL        |
 
 #### 1.04 (OLD)
 
-|  Function  | Address  |
-| :--------: | :------: |
-|   GETTOP   | 0x955CA0 |
-| LOADSTRING | 0x957850 |
-|   PCALL    | 0x955FE0 |
+|  Function  | Address  | Calling Convention |
+| :--------: | :------: | :----------------: |
+|   GETTOP   | 0x955CA0 |       CDECL        |
+| LOADSTRING | 0x957850 |       CDECL        |
+|   PCALL    | 0x955FE0 |       CDECL        |
 
