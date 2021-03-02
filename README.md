@@ -14,7 +14,7 @@
     - x32
     - Loadstring Execution
     - Command line
-  - Lua Functions Using:
+  - LuaC Functions Using:
     - gettop
     - pcall
     - loadstring
