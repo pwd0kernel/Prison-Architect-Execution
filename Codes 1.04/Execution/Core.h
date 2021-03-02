@@ -22,10 +22,8 @@ public:
 		std::string data;
 		console->ConsoleOutput(("Getting Lua State..."));
 		lua->get_lua_state();
-
 		while (true) {
 			Sleep(100);
-
 			if (lua->lua_state == 0);
 			else {
 				while (true) {
@@ -34,9 +32,7 @@ public:
 					if (data == ("exit"))
 						exit(1);
 					if (data == ("detach")) {
-						lua->DisableLuaState();
-						FreeConsole();
-						FreeLibraryAndExitThread(GetModuleHandleA("re.dll"), 0);
+						lua->Detach();
 					}
 					execution(data);
 					data.clear();
