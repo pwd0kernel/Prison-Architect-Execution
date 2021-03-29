@@ -52,7 +52,7 @@ You can start coding your own script if one of those work, I also listed 3 wiki 
 
 It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses
 
-#### 1.05 (NEW)
+#### 1.05 [Addresses] (NEW)
 
 |  Function  | Address  | Calling Convention |
 | :--------: | :------: | :----------------: |
@@ -60,7 +60,7 @@ It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you
 | LOADSTRING | 0x993390 |       CDECL        |
 |   PCALL    | 0x991B20 |       CDECL        |
 
-#### 1.04 (OLD)
+#### 1.04 [Addresses] (OLD)
 
 |  Function  | Address  | Calling Convention |
 | :--------: | :------: | :----------------: |
