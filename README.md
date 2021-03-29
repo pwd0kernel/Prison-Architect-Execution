@@ -6,7 +6,7 @@
 
 #### Information
 
-  - How to use:
+  - #### How to use:
     - Compile the DLL then inject it in Prison Architect with a DLL injector. Make sure you compile it in x32. Make sure to run **Prison Architect.exe** Do not run **Prison Architect64.exe**
   - #### Wiki:
     - Prison Architect Lua Wiki: [Click Here](https://prisonarchitect.paradoxwikis.com/Lua)
