@@ -27,6 +27,14 @@
   - #### Working on:
 	- [ ] 1.05 (going green) [Pack]
 	- [X] 1.04 [ALL DLC]
+	- 
+---
+
+#### What does it do?
+
+It uses the game lua engine to execute lua on it by using the loadstring address.
+there are alternative ways that you can do instreal of using the games loadstring
+to execute lua into the game. I just chosed the easier way of doing it.
 
 ---
 
