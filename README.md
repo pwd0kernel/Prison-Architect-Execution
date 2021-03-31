@@ -55,7 +55,7 @@ If you do not know Lua you can go here: https://www.lua.org/start.html to learn
 	- [ ] Add script decompiler
 	- [ ] Make a UI
 	- [ ] Auto Grab Addy's
-	- [-] Update to the latest version of Prison Architect [Working on it]
+	- [ ] Update to the latest version of Prison Architect [Working on it]
 	- [x] Lua Execution
 ---
 
