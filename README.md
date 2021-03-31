@@ -39,6 +39,7 @@ Game.GameOver()
 ```
 
 You can start coding your own script if one of those work, I also listed 3 wiki that you can use.
+If you do not know Lua you can go here: https://www.lua.org/start.html to learn
 
 ---
 
