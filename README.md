@@ -27,7 +27,7 @@
   - #### Working on:
 	- [ ] 1.05 (going green) [Pack]
 	- [X] 1.04 [ALL DLC]
-	- 
+
 ---
 
 #### What does it do?
