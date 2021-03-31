@@ -31,9 +31,9 @@
 ---
 
 #### Script to test the exploit:
-  ```lua
+```lua
 Game.AdviserSay("CEO", "This is a test")
-  ```
+```
 ```lua
 Game.GameOver()	
 ```
