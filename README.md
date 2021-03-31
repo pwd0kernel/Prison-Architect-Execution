@@ -65,7 +65,7 @@ If you do not know Lua you can go here: https://www.lua.org/start.html to learn
   - [x] Work's on 1.04
 ---
 
-It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses
+It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
 
 #### 1.05 [Addresses] (NEW)
 
