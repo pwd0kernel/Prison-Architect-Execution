@@ -57,6 +57,9 @@ If you do not know Lua you can go here: https://www.lua.org/start.html to learn
 	- [ ] Auto Grab Addy's
 	- [ ] Update to the latest version of Prison Architect [Working on it]
 	- [x] Lua Execution
+- #### Done:
+  - [x] In game execution
+  - [x] Clean Code & easy to understand
 ---
 
 It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses
