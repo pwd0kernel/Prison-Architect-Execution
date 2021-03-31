@@ -60,6 +60,9 @@ If you do not know Lua you can go here: https://www.lua.org/start.html to learn
 - #### Done:
   - [x] In game execution
   - [x] Clean Code & easy to understand
+  - [x] Command line
+  - [x] Detach the dll from the game
+  - [x] Work's on 1.04
 ---
 
 It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you can do it on your own here's the addresses
