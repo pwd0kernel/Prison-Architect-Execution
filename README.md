@@ -21,12 +21,13 @@
     - [pcall](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall)
     - [loadstring](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)
   - #### Language Used:
-    - [C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-    - [C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
-    - [LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C&style=for-the-badge&logo=appveyor)
+    - <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    - <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    - <img alt="LuaC" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+
   - #### Working on:
-	- [ ] 1.05 (going green) [Pack]
-	- [X] 1.04 [ALL DLC]
+    - [ ] 1.05 (going green) [Pack]
+    - [X] 1.04 [ALL DLC]
 
 ---
 
