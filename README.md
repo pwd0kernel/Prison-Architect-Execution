@@ -15,11 +15,11 @@
 #### Information
 
   - #### How to use:
-    - Compile the DLL then inject it in Prison Architect with a DLL injector. Make sure you compile it in x32. Make sure to run **Prison Architect.exe** Do not run **Prison Architect64.exe**
+    - Compile the DLL then inject it in Prison Architect with a DLL injector. Make sure you compile it in x32. Make sure to run <b style="color:green;"> Prison Architect.exe</b> Do not run <b style="color:red;">Prison Architect64.exe</b>
   - #### Wiki:
-    - Prison Architect Lua Wiki: [Click Here](https://prisonarchitect.paradoxwikis.com/Lua)
-    - Prison Architect Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
-    - Prison Architect Lua Guide: [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
+    - <a style="color:orange">Prison Architect</a> Lua Wiki: [Click Here](https://prisonarchitect.paradoxwikis.com/Lua)
+    - <a style="color:orange">Prison Architect</a> Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
+    - <a style="color:orange">Prison Architect</a> Lua Guide: [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
   - #### Information:
     - x32
     - Loadstring Execution
@@ -34,7 +34,7 @@
     - <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/luac-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
 
   - #### Working on:
-    - [ ] 1.05 (going green) [Pack]
+    - [ ] 1.05 (<a style="color:green;">Going Green</a>) [Pack]
     - [X] 1.04 [ALL DLC]
   - #### OS:
     - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
@@ -66,14 +66,14 @@ If you do not know Lua you can go here: https://www.lua.org/start.html to learn
 	- [ ] Add script decompiler
 	- [ ] Make a UI
 	- [ ] Auto Grab Addy's
-	- [ ] Update to the latest version of Prison Architect [Working on it]
+	- [ ] Update to the latest version of <a style="color:orange">Prison Architect</a> [Working on it]
 	- [x] Lua Execution
 - #### Done:
   - [x] In game execution
   - [x] Clean Code & easy to understand
   - [x] Command line
   - [x] Detach the dll from the game
-  - [x] Work's on 1.04
+  - [x] Work's on <a style="color:red;">1.04</a>
 ---
 
 It does not work on <a style="color:red;">1.05</a> (<a style="color:green;">Going Green</a>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
