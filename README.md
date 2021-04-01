@@ -23,7 +23,7 @@
   - #### Language Used:
     - [C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
     - [C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
-    - [LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C)
+    - [LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C&style=for-the-badge&logo=appveyor)
   - #### Working on:
 	- [ ] 1.05 (going green) [Pack]
 	- [X] 1.04 [ALL DLC]
