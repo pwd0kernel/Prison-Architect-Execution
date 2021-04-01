@@ -15,7 +15,7 @@
 #### Information
 
   - #### How to use:
-    - Compile the DLL then inject it in Prison Architect with a DLL injector. Make sure you compile it in x32. Make sure to run <b style="color:green;"> Prison Architect.exe</b> Do not run <b style="color:red;">Prison Architect64.exe</b>
+    - Compile the DLL then inject it in <a style="color:orange">Prison Architect</a> with a DLL injector. Make sure you compile it in x32. Make sure to run <b style="color:green;"> Prison Architect.exe</b> Do not run <b style="color:red;">Prison Architect64.exe</b>
   - #### Wiki:
     - <a style="color:orange">Prison Architect</a> Lua Wiki: [Click Here](https://prisonarchitect.paradoxwikis.com/Lua)
     - <a style="color:orange">Prison Architect</a> Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
