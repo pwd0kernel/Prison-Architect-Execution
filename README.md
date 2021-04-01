@@ -5,7 +5,9 @@
   <a href="https://github.com/pwd0kernel/Prison-Architect-Execution">
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img alt="Windows 10" href="https://en.wikipedia.org/wiki/Windows_10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <a href="https://en.wikipedia.org/wiki/Windows_10">
+    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
 </p>
 
 ---
