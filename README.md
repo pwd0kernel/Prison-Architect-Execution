@@ -17,9 +17,9 @@
     - Loadstring Execution
     - Command line
   - #### LuaC Functions Using:
-    - gettop
-    - pcall
-    - loadstring
+    - ![gettop](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)
+    - ![pcall](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall)
+    - ![loadstring](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)
   - #### Language Used:
     - ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
     - ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
