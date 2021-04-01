@@ -80,19 +80,19 @@ It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you
 
 #### 1.05 [Addresses] (NEW)
 
-|  Function  | Address  | Calling Convention |
-| :--------: | :------: | :----------------: |
-| [GETTOP](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)   | 0x9917E0 |       CDECL        |
-| [LOADSTRING](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall) | 0x993390 |       CDECL        |
-| [PCALL](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)    | 0x991B20 |       CDECL       |
+|                                Function                                | Address  | Calling Convention |
+| :--------------------------------------------------------------------: | :------: | :----------------: |
+|    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>     | 0x9917E0 |       CDECL        |
+|   <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>   | 0x993390 |       CDECL        |
+| <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> | 0x991B20 |       CDECL        |
 
 #### 1.04 [Addresses] (OLD)
 
-|  Function  | Address  | Calling Convention |
-| :--------: | :------: | :----------------: |
-| [GETTOP](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)   | 0x955CA0 |       CDECL        |
-| [LOADSTRING](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall) | 0x957850 |       CDECL        |
-| [PCALL](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)    | 0x955FE0 |       CDECL       |
+|                                Function                                | Address  | Calling Convention |
+| :--------------------------------------------------------------------: | :------: | :----------------: |
+|    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>     | 0x955CA0 |       CDECL        |
+|   <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>   | 0x957850 |       CDECL        |
+| <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> | 0x955FE0 |       CDECL        |
 
 ### Current project i'm on:
 
