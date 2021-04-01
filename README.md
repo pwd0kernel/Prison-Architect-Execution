@@ -21,9 +21,9 @@
     - [pcall](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall)
     - [loadstring](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)
   - #### Language Used:
-    - ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-    - ![C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
-    - ![LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C)
+    - [C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+    - [C](https://img.shields.io/badge/-C-fff?&logo=c&logoColor=00599C)
+    - [LuaC](https://img.shields.io/badge/-LuaC-fff?&logo=Lua&logoColor=00599C)
   - #### Working on:
 	- [ ] 1.05 (going green) [Pack]
 	- [X] 1.04 [ALL DLC]
@@ -71,17 +71,17 @@ It does not work on 1.05 (Going Green)[Pack] I got to fix it but if you want you
 
 |  Function  | Address  | Calling Convention |
 | :--------: | :------: | :----------------: |
-| ![GETTOP](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)   | 0x9917E0 |       CDECL        |
-| ![LOADSTRING](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall) | 0x993390 |       CDECL        |
-| ![PCALL](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)    | 0x991B20 |       CDECL       |
+| [GETTOP](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)   | 0x9917E0 |       CDECL        |
+| [LOADSTRING](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall) | 0x993390 |       CDECL        |
+| [PCALL](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)    | 0x991B20 |       CDECL       |
 
 #### 1.04 [Addresses] (OLD)
 
 |  Function  | Address  | Calling Convention |
 | :--------: | :------: | :----------------: |
-|   ![GETTOP](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)   | 0x955CA0 |       CDECL        |
-|   ![LOADSTRING](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall) | 0x957850 |       CDECL        |
-|   ![PCALL](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)    | 0x955FE0 |       CDECL       |
+|   [GETTOP](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)   | 0x955CA0 |       CDECL        |
+|   [LOADSTRING](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall) | 0x957850 |       CDECL        |
+|   [PCALL](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)    | 0x955FE0 |       CDECL       |
 
 ### Current project i'm on:
 
