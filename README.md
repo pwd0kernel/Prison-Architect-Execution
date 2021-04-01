@@ -25,9 +25,9 @@
     - Loadstring Execution
     - Command line
   - #### LuaC Functions Using:
-    - [gettop](https://www.lua.org/source/5.1/lapi.c.html#lua_gettop)
-    - [pcall](https://www.lua.org/source/5.1/lapi.c.html#lua_pcall)
-    - [loadstring](https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring)
+    - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
+    - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
+    - <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
   - #### Language Used:
     - <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> </a>
     - <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> </a>
