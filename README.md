@@ -28,6 +28,8 @@
   - #### Working on:
     - [ ] 1.05 (going green) [Pack]
     - [X] 1.04 [ALL DLC]
+  - #### OS:
+    - <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 ---
 
