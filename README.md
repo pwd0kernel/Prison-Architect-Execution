@@ -23,7 +23,7 @@
   - #### Language Used:
     - <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
     - <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-    - <img alt="LuaC" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=luac&logoColor=white"/>
+    - <img alt="LuaC" src="https://img.shields.io/badge/luac-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 
   - #### Working on:
     - [ ] 1.05 (going green) [Pack]
