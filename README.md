@@ -34,8 +34,8 @@
     - <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/luac-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
 
   - #### Working on:
-    - [ ] 1.05 (<a style="color:green;">Going Green</a>) [Pack]
-    - [X] 1.04 [ALL DLC]
+    - [ ] <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/1.05 (Going Green) [Pack]-%232C2D72.svg?&style=for-the-badge&color=red"/>
+    - [X] <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/1.04 [ALL DLC]-%232C2D72.svg?&style=for-the-badge&color=red"/>
   - #### OS:
     - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 
