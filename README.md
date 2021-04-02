@@ -20,7 +20,7 @@
   - #### Wiki:
     - <a href="https://prisonarchitect.paradoxwikis.com/Lua"> <img alt="paradoxwikis" src="https://img.shields.io/badge/paradoxwikis-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/> </a>
     - <a href="https://www.prisonarchitectwiki.com/wiki/Modding_guide"> <img alt="prisonarchitectwiki" src="https://img.shields.io/badge/prisonarchitectwiki-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/>
-    - <a style="color:orange">Prison Architect</a> Lua Guide: [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
+    - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=480978426"> <img alt="steamcommunity" src="https://img.shields.io/badge/steamcommunity-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/>
   - #### Information:
     - <img alt="x32" src="https://img.shields.io/badge/x32-0078D6?style=for-the-badge&color=blue" />
     - <img alt="Loadstring Execution" src="https://img.shields.io/badge/Loadstring Execution-0078D6?style=for-the-badge&color=blue" />
