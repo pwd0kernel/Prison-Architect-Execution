@@ -32,7 +32,6 @@
     - <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> </a>
     - <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> </a>
     - <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/luac-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
-
   - #### Working on:
     - [ ] <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/1.05 (Going Green) [Pack]-%232C2D72.svg?&style=for-the-badge&color=red"/>
     - [X] <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/1.04 [ALL DLC]-%232C2D72.svg?&style=for-the-badge&color=red"/>
