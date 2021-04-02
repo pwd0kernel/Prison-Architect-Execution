@@ -18,9 +18,9 @@
   - #### How to use:
     - Compile the DLL then inject it in <b>Prison Architect</b> with a DLL injector. Make sure you compile it in <b>x32</b>. Make sure to run  <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect.exe-0078D6?&logo=windows&logoColor=white&color=darkgreen" /> </a> Do not run <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect64.exe-0078D6?&logo=windows&logoColor=white&color=darkred" /> </a>
   - #### Wiki:
-    - <a href="https://prisonarchitect.paradoxwikis.com/Lua"> <img alt="paradoxwikis" src="https://img.shields.io/badge/paradoxwikis-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/> </a>
-    - <a href="https://www.prisonarchitectwiki.com/wiki/Modding_guide"> <img alt="prisonarchitectwiki" src="https://img.shields.io/badge/prisonarchitectwiki-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/>
-    - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=480978426"> <img alt="steamcommunity" src="https://img.shields.io/badge/steamcommunity-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/>
+    - <a href="https://prisonarchitect.paradoxwikis.com/Lua"> <img alt="paradoxwikis" src="https://img.shields.io/badge/paradoxwikis-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=orange"/> </a>
+    - <a href="https://www.prisonarchitectwiki.com/wiki/Modding_guide"> <img alt="prisonarchitectwiki" src="https://img.shields.io/badge/prisonarchitectwiki-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=orange"/>
+    - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=480978426"> <img alt="steamcommunity" src="https://img.shields.io/badge/steamcommunity-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=orange"/>
   - #### Information:
     - <img alt="x32" src="https://img.shields.io/badge/x32-0078D6?style=for-the-badge&color=blue" />
     - <img alt="Loadstring Execution" src="https://img.shields.io/badge/Loadstring Execution-0078D6?style=for-the-badge&color=blue" />
