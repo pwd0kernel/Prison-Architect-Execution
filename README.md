@@ -6,7 +6,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Windows_10">
-    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img alt="Windows 10" src="https://img.shields.io/badge/Windows 10/8/7-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://gitlab.com/pwd0kernel/Prison-Architect-Execution">
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -62,7 +62,7 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
 	- [ ] Add script decompiler
 	- [ ] Make a UI
 	- [ ] Auto Grab Addy's
-	- [ ] Update to the latest version of <b>Prison Architect</b> [Working on it]
+	- [ ] Update to the latest version of <b>Prison Architect</b> (<b>Working on it</b>)
 	- [x] Lua Execution
 - #### Done:
   - [x] In game execution
