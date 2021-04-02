@@ -22,9 +22,9 @@
     - <a style="color:orange">Prison Architect</a> Lua Wiki(best): [Click Here](https://www.prisonarchitectwiki.com/wiki/Modding_guide)
     - <a style="color:orange">Prison Architect</a> Lua Guide: [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=480978426)
   - #### Information:
-    - x32 
-    - Loadstring Execution
-    - Command line
+    - <img alt="x32" src="https://img.shields.io/badge/x32-0078D6?style=for-the-badge&color=blue" />
+    - <img alt="x32" src="https://img.shields.io/badge/Loadstring Execution-0078D6?style=for-the-badge&color=blue" />
+    - <img alt="x32" src="https://img.shields.io/badge/Command line-0078D6?style=for-the-badge&color=blue" />
   - #### LuaC Functions Using:
     - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
     - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
