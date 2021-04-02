@@ -77,11 +77,8 @@ If you do not know Lua you can go here: https://www.lua.org/start.html to learn
   - [x] Detach the dll from the game
   - [x] Work's on <a style="color:red;">1.04</a>
 ---
-
 It does not work on <a style="color:red;">1.05</a> (<a style="color:green;">Going Green</a>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
-
 #### 1.05 [Addresses] (NEW)
-
 |                                Function                                | Address  | Calling Convention |
 | :--------------------------------------------------------------------: | :------: | :----------------: |
 |    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>     | 0x9917E0 |       CDECL        |
@@ -89,7 +86,6 @@ It does not work on <a style="color:red;">1.05</a> (<a style="color:green;">Goin
 | <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> | 0x991B20 |       CDECL        |
 
 #### 1.04 [Addresses] (OLD)
-
 |                                Function                                | Address  | Calling Convention |
 | :--------------------------------------------------------------------: | :------: | :----------------: |
 |    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>     | 0x955CA0 |       CDECL        |
