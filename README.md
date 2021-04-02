@@ -62,7 +62,7 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
 	- [ ] Add script decompiler
 	- [ ] Make a UI
 	- [ ] Auto Grab Addy's
-	- [ ] Update to the latest version of <a style="color:orange">Prison Architect</a> [Working on it]
+	- [ ] Update to the latest version of <b>Prison Architect</b> [Working on it]
 	- [x] Lua Execution
 - #### Done:
   - [x] In game execution
@@ -71,7 +71,7 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
   - [x] Detach the dll from the game
   - [x] Work's on <a style="color:red;">1.04</a>
 ---
-It does not work on <a style="color:red;">1.05</a> (<a style="color:green;">Going Green</a>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
+It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
 #### 1.05 [Addresses] (NEW)
 |                                Function                                | Address  | Calling Convention |
 | :--------------------------------------------------------------------: | :------: | :----------------: |
