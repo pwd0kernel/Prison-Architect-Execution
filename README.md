@@ -14,9 +14,7 @@
 </p>
 
 ---
-
 #### Information
-
   - #### How to use:
     - Compile the DLL then inject it in <a style="color:orange">Prison Architect</a> with a DLL injector. Make sure you compile it in x32. Make sure to run <b style="color:green;"> Prison Architect.exe</b> Do not run <b style="color:red;">Prison Architect64.exe</b>
   - #### Wiki:
@@ -43,7 +41,6 @@
     - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 
 ---
-
 #### What does it do?
 It uses the game lua engine to execute lua on it by using the loadstring address.
 there are alternative ways that you can do instreal of using the games loadstring
