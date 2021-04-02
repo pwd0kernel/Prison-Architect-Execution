@@ -16,7 +16,7 @@
 ---
 #### Information
   - #### How to use:
-    - Compile the DLL then inject it in <a style="color:orange">Prison Architect</a> with a DLL injector. Make sure you compile it in x32. Make sure to run  <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect.exe-0078D6?&logo=windows&logoColor=white&color=darkgreen" /> </a> Do not run <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect64.exe-0078D6?&logo=windows&logoColor=white&color=darkred" /> </a>
+    - Compile the DLL then inject it in <b>Prison Architect</b> with a DLL injector. Make sure you compile it in <b>x32</b>. Make sure to run  <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect.exe-0078D6?&logo=windows&logoColor=white&color=darkgreen" /> </a> Do not run <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect64.exe-0078D6?&logo=windows&logoColor=white&color=darkred" /> </a>
   - #### Wiki:
     - <a href="https://prisonarchitect.paradoxwikis.com/Lua"> <img alt="paradoxwikis" src="https://img.shields.io/badge/paradoxwikis-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/> </a>
     - <a href="https://www.prisonarchitectwiki.com/wiki/Modding_guide"> <img alt="prisonarchitectwiki" src="https://img.shields.io/badge/prisonarchitectwiki-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/>
@@ -69,7 +69,7 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
   - [x] Clean Code & easy to understand
   - [x] Command line
   - [x] Detach the dll from the game
-  - [x] Work's on <a style="color:red;">1.04</a>
+  - [x] Work's on <b>1.04</b>
 ---
 It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
 #### 1.05 [Addresses] (NEW)
