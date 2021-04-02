@@ -16,7 +16,7 @@
 ---
 #### Information
   - #### How to use:
-    - Compile the DLL then inject it in <a style="color:orange">Prison Architect</a> with a DLL injector. Make sure you compile it in x32. Make sure to run  <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect.exe-0078D6?&logo=windows&logoColor=white&color=darkgreen" /> </a> Do not run <b style="color:red;">Prison Architect64.exe</b>
+    - Compile the DLL then inject it in <a style="color:orange">Prison Architect</a> with a DLL injector. Make sure you compile it in x32. Make sure to run  <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect.exe-0078D6?&logo=windows&logoColor=white&color=darkgreen" /> </a> Do not run <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Prison Architect64.exe-0078D6?&logo=windows&logoColor=white&color=darkred" /> </a>
   - #### Wiki:
     - <a href="https://prisonarchitect.paradoxwikis.com/Lua"> <img alt="paradoxwikis" src="https://img.shields.io/badge/paradoxwikis-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/> </a>
     - <a href="https://www.prisonarchitectwiki.com/wiki/Modding_guide"> <img alt="prisonarchitectwiki" src="https://img.shields.io/badge/prisonarchitectwiki-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=yellow"/>
