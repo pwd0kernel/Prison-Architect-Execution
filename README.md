@@ -50,7 +50,6 @@ there are alternative ways that you can do instreal of using the games loadstrin
 to execute lua into the game. I just chosed the easier way of doing it.
 
 ---
-
 #### Script to test the exploit:
 ```lua
 Game.AdviserSay("CEO", "This is a test")
@@ -58,12 +57,10 @@ Game.AdviserSay("CEO", "This is a test")
 ```lua
 Game.GameOver()	
 ```
-
 You can start coding your own script if one of those work, I also listed 3 wiki that you can use.
 If you do not know Lua you can go here: https://www.lua.org/start.html to learn
 
 ---
-
 - #### Todo:
 	- [ ] Add script decompiler
 	- [ ] Make a UI
