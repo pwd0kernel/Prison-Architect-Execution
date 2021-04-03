@@ -27,7 +27,7 @@
     - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=480978426"> <img alt="steamcommunity" src="https://img.shields.io/badge/steamcommunity-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white&color=orange"/>
 
   - #### Information:
-    - <img alt="x32" src="https://img.shields.io/badge/x32-0078D6?style=for-the-badge&color=blue" />
+    - <img alt="x32" src="https://img.shields.io/badge/x32 - DLL-0078D6?style=for-the-badge&color=blue" />
     - <img alt="Loadstring Execution" src="https://img.shields.io/badge/Loadstring Execution-0078D6?style=for-the-badge&color=blue" />
     - <img alt="Command Line" src="https://img.shields.io/badge/Command line- CMD-0078D6?style=for-the-badge&color=blue" />
 
