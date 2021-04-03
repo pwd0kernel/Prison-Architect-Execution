@@ -55,9 +55,9 @@
 
 #### What does it do?
 
-It uses the game lua engine to execute lua on it by using the loadstring address.
-there are alternative ways that you can do instreal of using the games loadstring
-to execute lua into the game. I just chosed the easier way of doing it.
+It uses the game "<b>Lua Engine</b>" to execute lua on it by using the <b>loadstring</b> address.
+there are alternative ways that you can do instead of using the games loadstring
+to execute <b>Lua</b> into the game. I just chosed the easier way of doing it.
 
 
 ---
