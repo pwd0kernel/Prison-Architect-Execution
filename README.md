@@ -59,7 +59,7 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
 
 ---
 - #### Todo:
-	- [ ] Add script decompiler
+	- [ ] Add script decompiler (<b>it's done i just haven't released it yet</b>)
 	- [ ] Make a UI
 	- [ ] Auto Grab Addy's
 	- [ ] Update to the latest version of <b>Prison Architect</b> (<b>Working on it</b>)
@@ -71,7 +71,7 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
   - [x] Detach the dll from the game
   - [x] Work's on <b>1.04</b>
 ---
-It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]
+It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]. More addresses here: <a href= "https://github.com/pwd0kernel/Prison-Architect-Execution/blob/main/Codes%201.05/Addys.md">Click Here</a>
 #### 1.05 [Addresses] (NEW)
 |                                Function                                | Address  | Calling Convention |
 | :--------------------------------------------------------------------: | :------: | :----------------: |
