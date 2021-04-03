@@ -52,7 +52,7 @@ to execute lua into the game. I just chosed the easier way of doing it.
 Game.AdviserSay("CEO", "This is a test")
 ```
 ```lua
-Game.GameOver()	
+Game.GameOver()
 ```
 You can start coding your own script if one of those work, I also listed 3 <a href="https://github.com/pwd0kernel/Prison-Architect-Execution#wiki">wiki</a> that you can use.
 If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"> <img alt="www.lua.org" src="https://img.shields.io/badge/www.lua.org-%232C2D72.svg?&logo=lua&logoColor=white"/> </a> to learn.
