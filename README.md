@@ -41,23 +41,33 @@
     - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 
 ---
+
+
 #### What does it do?
+
 It uses the game lua engine to execute lua on it by using the loadstring address.
 there are alternative ways that you can do instreal of using the games loadstring
 to execute lua into the game. I just chosed the easier way of doing it.
 
+
 ---
+
+
 #### Script to test the exploit:
 ```lua
 Game.AdviserSay("CEO", "This is a test")
 ```
+
 ```lua
 Game.GameOver()
 ```
+
 You can start coding your own script if one of those work, I also listed 3 <a href="https://github.com/pwd0kernel/Prison-Architect-Execution#wiki">wiki</a> that you can use.
 If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"> <img alt="www.lua.org" src="https://img.shields.io/badge/www.lua.org-%232C2D72.svg?&logo=lua&logoColor=white"/> </a> to learn.
 
 ---
+
+
 - #### Todo:
 	- [ ] Add script decompiler (<b>it's done i just haven't released it yet</b>)
 	- [ ] Make a UI
@@ -70,9 +80,16 @@ If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"
   - [x] Command line
   - [x] Detach the dll from the game
   - [x] Work's on <b>1.04</b>
+
+
 ---
+
+
 It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but if you want you can do it on your own here's the addresses [Might want to change somethings up]. More addresses here: <a href= "https://github.com/pwd0kernel/Prison-Architect-Execution/blob/main/Codes%201.05/Addys.md">Click Here</a>
+
+
 #### 1.05 [Addresses] (NEW)
+
 |                                Function                                | Address  | Calling Convention |
 | :--------------------------------------------------------------------: | :------: | :----------------: |
 |    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>     | 0x9917E0 |       CDECL        |
@@ -80,14 +97,18 @@ It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but i
 | <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> | 0x991B20 |       CDECL        |
 
 #### 1.04 [Addresses] (OLD)
+
 |                                Function                                | Address  | Calling Convention |
 | :--------------------------------------------------------------------: | :------: | :----------------: |
-|    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>     | 0x955CA0 |       CDECL        |
-|   <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>   | 0x957850 |       CDECL        |
-| <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> | 0x955FE0 |       CDECL        |
+|    <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"><img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a>     | 0x955CA0 |       CDECL        |
+|   <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"><img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a>   | 0x957850 |       CDECL        |
+| <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"><img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/></a> | 0x955FE0 |       CDECL        |
 
 #### Current project working i'm on:
-<p align="center">
-  <img src="https://www.prisonarchitect.com/packs/media/start/gg-logo-1d490392.png">
-  <img alt="Going Green" src="https://img.shields.io/badge/Prison Architect [Going Green Executor] - Soon-0078D6?style=for-the-badge&color=green"/>
-</p>
+<details Closed>
+  <summary>Prison Architect [Going Green Executor]</summary>
+    <p align="center">
+      <img src="https://www.prisonarchitect.com/packs/media/start/gg-logo-1d490392.png">
+      <img alt="Going Green" src="https://img.shields.io/badge/Prison Architect [Going Green Executor] - Soon-0078D6?style=for-the-badge&color=green"/>
+    </p>
+</details>
