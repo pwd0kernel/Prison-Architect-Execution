@@ -32,9 +32,9 @@
     - <img alt="Command Line" src="https://img.shields.io/badge/Command line- CMD-0078D6?style=for-the-badge&color=blue" />
 
   - #### LuaC Functions Using:
-    - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
-    - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
-    - <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
+    - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/www.lua.org - gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
+    - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/www.lua.org - pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
+    - <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/www.lua.org - loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
 
   - #### Language Used:
     - <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> </a>
@@ -48,7 +48,7 @@
     - <img alt="1.04" src="https://img.shields.io/badge/1.04 - [ALL DLC]-0078D6?style=for-the-badge&color=red"/>
 
   - #### OS:
-    - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
+    - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows 10/8/7-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 
 ---
 
