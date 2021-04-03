@@ -73,7 +73,7 @@ Game.GameOver()
 ```
 
 You can start coding your own script if one of those work, I also listed <b>3</b> <a href="https://github.com/pwd0kernel/Prison-Architect-Execution#wiki">wiki</a> that you can use.
-If you do not know Lua you can go here: <a href="https://www.lua.org/start.html"> <img alt="www.lua.org" src="https://img.shields.io/badge/www.lua.org-%232C2D72.svg?&logo=lua&logoColor=white"/> </a> to learn.
+If you do not know <b>Lua</b> you can go here: <a href="https://www.lua.org/start.html"> <img alt="www.lua.org" src="https://img.shields.io/badge/www.lua.org-%232C2D72.svg?&logo=lua&logoColor=white"/> </a> to learn.
 
 ---
 
@@ -131,7 +131,7 @@ It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but i
 | CALL       | 0x9913B0 | CDECL              |
 | TYPE       | 0x992610 | CDECL              |
 | ISSTRING   | 0x991910 | CDECL              |
-| REPLACE 	 | 0x992040 | CDECL 			 |
+| REPLACE 	 | 0x992040 | CDECL 			       |
 | TOLSTRING  | 0x992490 | CDECL              |
 | ISNUMBER   | 0x9918D0 | CDECL              |
 | TONUMBER   | 0x992510 | CDECL              |
