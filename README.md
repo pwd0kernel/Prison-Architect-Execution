@@ -86,7 +86,7 @@ It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but i
 |   <a href="https://www.lua.org/source/5.1/lauxlib.c.html#luaL_loadstring"> <img alt="loadstring" src="https://img.shields.io/badge/loadstring-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>   | 0x957850 |       CDECL        |
 | <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> | 0x955FE0 |       CDECL        |
 
-#### Current project i'm on:
+#### Current project working i'm on:
 <p align="center">
   <img src="https://www.prisonarchitect.com/packs/media/start/gg-logo-1d490392.png">
   <img alt="Going Green" src="https://img.shields.io/badge/Prison Architect [Going Green Executor] - Soon-0078D6?style=for-the-badge&color=green"/>
