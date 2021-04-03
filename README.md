@@ -116,9 +116,11 @@ It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but i
 
 <details Closed>
   <summary>Prison Architect [Going Green] Full Addresses</summary>
+  </br>
       <img alt="Going Green" src="https://img.shields.io/badge/Prison Architect [Going Green Executor] - Soon-0078D6?style=for-the-badge&color=green"/>
 
-##### Some Addresses might be wrong (since its from a dumper)
+
+<img alt="Windows 10" src="https://img.shields.io/badge/Some Addresses might be wrong (since its from a dumper)-0078D6?&logoColor=white&color=red" />
 
 | Function   | Address  | Calling Convention |
 | ---------- | -------- | ------------------ |
