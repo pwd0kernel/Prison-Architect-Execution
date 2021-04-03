@@ -24,7 +24,7 @@
   - #### Information:
     - <img alt="x32" src="https://img.shields.io/badge/x32-0078D6?style=for-the-badge&color=blue" />
     - <img alt="Loadstring Execution" src="https://img.shields.io/badge/Loadstring Execution-0078D6?style=for-the-badge&color=blue" />
-    - <img alt="Command Line" src="https://img.shields.io/badge/Command line-0078D6?style=for-the-badge&color=blue" />
+    - <img alt="Command Line" src="https://img.shields.io/badge/Command line- CMD-0078D6?style=for-the-badge&color=blue" />
   - #### LuaC Functions Using:
     - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_gettop"> <img alt="gettop" src="https://img.shields.io/badge/gettop-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
     - <a href="https://www.lua.org/source/5.1/lapi.c.html#lua_pcall"> <img alt="pcall" src="https://img.shields.io/badge/pcall-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
