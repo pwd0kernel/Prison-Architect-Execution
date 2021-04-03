@@ -34,9 +34,9 @@
     - <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> </a>
     - <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)"> <img alt="LuaC" src="https://img.shields.io/badge/luac-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
   - #### Working on:
-    - <img alt="Going Green" src="https://img.shields.io/badge/1.05 (Going Green) [Pack]-0078D6?style=for-the-badge&color=red"/>
+    - <img alt="Going Green" src="https://img.shields.io/badge/1.05 - (Going Green) [Pack]-0078D6?style=for-the-badge&color=red"/>
   - #### Done:
-    - <img alt="1.04" src="https://img.shields.io/badge/1.04 [ALL DLC]-0078D6?style=for-the-badge&color=red"/>
+    - <img alt="1.04" src="https://img.shields.io/badge/1.04 - [ALL DLC]-0078D6?style=for-the-badge&color=red"/>
   - #### OS:
     - <a href="https://en.wikipedia.org/wiki/Windows_10"> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 
@@ -89,4 +89,5 @@ It does not work on <b>1.05</b> (<b>Going Green</b>)[Pack] I got to fix it but i
 #### Current project i'm on:
 <p align="center">
   <img src="https://www.prisonarchitect.com/packs/media/start/gg-logo-1d490392.png">
+  <img alt="Going Green" src="https://img.shields.io/badge/Prison Architect [Going Green Executor] - Soon-0078D6?style=for-the-badge&color=green"/>
 </p>
