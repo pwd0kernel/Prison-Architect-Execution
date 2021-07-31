@@ -5,7 +5,6 @@
 
 class Console {
 private:
-
 public:
 	static void AllowConsole(const char* name) {
 		AllocConsole();
