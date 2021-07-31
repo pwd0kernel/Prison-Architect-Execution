@@ -10,7 +10,6 @@ private:
 	using gettop = int(__cdecl*)(std::uintptr_t lua_state);
 	using loadstring = int(__cdecl*)(std::uintptr_t lua_state, const char* buff);
 	using pcall = int(__cdecl*)(std::uintptr_t lua_state, int nargs, int nresults, int errfunc);
-
 public:
 	static std::uintptr_t lua_state;
 
