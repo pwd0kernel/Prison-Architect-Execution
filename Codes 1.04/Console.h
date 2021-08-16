@@ -2,8 +2,8 @@
 // Created by pwd0kernel on 8/15/2021.
 //
 
-#ifndef UNTITLED14_CONSOLE_H
-#define UNTITLED14_CONSOLE_H
+#ifndef PRISON_CONSOLE_H
+#define PRISON_CONSOLE_H
 
 #include <consoleapi2.h>
 #include <stdio.h>
@@ -25,4 +25,4 @@ public:
     }
 };
 
-#endif //UNTITLED14_CONSOLE_H
+#endif //PRISON_CONSOLE_H
