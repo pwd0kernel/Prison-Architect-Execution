@@ -21,7 +21,7 @@ public:
     };
 
     static void ConsoleOutput(const char *text) {
-        printf_s("[Console]: %s %s", text  , "\n");
+        printf_s("[Console]: %s %s", text, "\n");
     }
 };
 
