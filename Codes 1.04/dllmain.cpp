@@ -6,7 +6,7 @@ int main() {
     std::unique_ptr<Core> core = std::make_unique<Core>();
     std::unique_ptr<Console> console = std::make_unique<Console>();
 
-    console->AllowConsole("Lua");
+    console->AllowConsole("Lua", "Prison Achritect", "P-Lua Exploit");
     core->executor();
 }
 
