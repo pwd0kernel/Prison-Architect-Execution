@@ -11,18 +11,18 @@
 class Console {
 private:
 public:
-    static void AllowConsole(const char *name) {
-        FILE *c;
+        static void AllowConsole(const char *cname, const char *window_name, const char *window_new_name) {
+            FILE *c;
+            AllocConsole();
+            freopen_s(&c, "CONOUT$", "w", stdout);
+            freopen_s(&c, "CONIN$", "r", stdin);
+            SetWindowTextA(FindWindowA(nullptr, window_name), window_new_name);
+            SetConsoleTitleA(cname);
+        };
 
-        AllocConsole();
-        freopen_s(&c, "CONOUT$", "w", stdout);
-        freopen_s(&c, "CONIN$", "r", stdin);
-        SetConsoleTitleA(name);
-    };
-
-    static void ConsoleOutput(const char *text) {
-        printf_s("[Console]: %s %s", text, "\n");
-    }
+        static void ConsoleOutput(const char *text) {
+            printf_s("[Console]: %s \n", text);
+        }
 };
 
 #endif //PRISON_CONSOLE_H
