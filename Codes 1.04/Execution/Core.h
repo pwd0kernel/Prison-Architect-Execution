@@ -7,7 +7,7 @@ std::uintptr_t Lua::lua_state = 0;
 
 class Core {
 private:
-	int execution(const std::string& Data) {
+	int lua_execution(const std::string& Data) {
 		std::unique_ptr<Lua> lua = std::make_unique<Lua>();
 		if (lua->lua_state != 0) {
 			lua->lua_loadstring(lua->lua_state, Data.c_str()) || lua->lua_pcall(lua->lua_state, 1, 0, 0);
@@ -34,7 +34,7 @@ public:
 					if (data == ("detach")) {
 						lua->Detach();
 					}
-					execution(data);
+					lua_execution(data);
 					data.clear();
 				}
 			}
